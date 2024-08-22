@@ -9,7 +9,7 @@
     
         public static void main(String[] args) {
             Scanner teclado = new Scanner(System.in);
-            float consumoPorKm = 0.08f;  // Consumo de combustible por kilómetro
+            float consumoPorKm = 0.08f;  
             float totalCombustible = 0;
     
             try {
